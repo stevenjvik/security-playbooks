@@ -2,19 +2,21 @@
 
 **Status**: Work in Progress
 
+## Security Notice
+This repository contains only general cybersecurity concepts and educational templates. No actual operational procedures, proprietary methodologies, or sensitive security information from any employer will be published. All content represents publicly available industry best practices only.
+
 ## Overview
-Standardized SOC playbooks and escalation procedures for incident response, developed to reduce response times and improve consistency across security operations.
+Conceptual SOC playbook templates and general incident response frameworks for educational purposes.
 
 ## Planned Components
-- Incident classification workflows
-- Escalation procedures and contact matrices
-- Threat hunting playbooks
-- Malware analysis procedures
-- Network security incident response
-- Training documentation for junior analysts
+- Generic incident classification frameworks
+- General escalation procedure templates
+- Public threat hunting methodologies
+- Educational malware analysis workflows
+- Industry-standard incident response concepts
 
 ## Background
-These playbooks were developed during SOC operations at Sound Transit, contributing to a 40% reduction in incident response times and 25% faster new analyst onboarding.
+These templates are based on publicly available security frameworks and general industry practices, created for educational and professional development purposes.
 
 ---
-*Repository content being compiled and documented for public release.*
+*All content will be educational/conceptual only - no proprietary or sensitive information.*
